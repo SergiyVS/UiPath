@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Форум",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "btPwN4vqsEe0n4LNGEsniQ",
+  "Reference": "54uTGlzDokeeZOqBUEaMEQ/btPwN4vqsEe0n4LNGEsniQ",
+  "ParentRef": "54uTGlzDokeeZOqBUEaMEQ/rXT9tAscLUGCxMcw2-fJwA",
+  "Created": "2025-04-24T18:30:32.1033298Z",
+  "Updated": "2025-04-24T18:30:32.1033298Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
