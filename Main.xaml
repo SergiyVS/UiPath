@@ -91,9 +91,9 @@
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Форум'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,218.4" sap2010:WorkflowViewState.IdRef="NClick_1" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="b920a2ec-bde1-4f65-9b1f-33afae7f3edf" Version="V4">
+            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Депозити'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,218.4" sap2010:WorkflowViewState.IdRef="NClick_1" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="b920a2ec-bde1-4f65-9b1f-33afae7f3edf" Version="V4">
               <uix:NClick.Target>
-                <uix:TargetAnchorable BrowserURL="news.finance.ua" CVScreenId="01a722cf-d3d5-4da7-8a6c-294745ada98b" ContentHash="k5fdfqwrDEi3ruxObSHYbg" DesignTimeRectangle="1562, 154, 90, 76" DesignTimeScaleFactor="1.3636363744735718" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Форум' /&gt;" Guid="ff249428-1fff-41be-b0c3-a9f465eefaa7" InformativeScreenshot="9bfe1be1bfe6e76c822f07d795d3701e.png" Reference="54uTGlzDokeeZOqBUEaMEQ/btPwN4vqsEe0n4LNGEsniQ" ScopeSelectorArgument="&lt;html app='firefox.exe' title='Новини фінансів України та світу - Finance.ua' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive" />
+                <uix:TargetAnchorable BrowserURL="news.finance.ua" CVScreenId="8664c7db-f609-44df-a977-0116f3a0bc6c" ContentHash="p2RdxWNBB0GefVRZOFAbaA" DesignTimeRectangle="1349, 154, 126, 76" DesignTimeScaleFactor="1.3636363744735718" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Депозити' /&gt;" Guid="f1153196-367b-489f-bf8e-9ffddf6c10b5" InformativeScreenshot="dcc8c3ab1e3a27b8579b0f34d671144f.png" Reference="54uTGlzDokeeZOqBUEaMEQ/ct9Fjs3uX0OFzUqpQ2d2GA" ScopeSelectorArgument="&lt;html app='firefox.exe' title='Новини фінансів України та світу - Finance.ua' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive" />
               </uix:NClick.Target>
               <uix:NClick.VerifyOptions>
                 <uix:VerifyExecutionOptions DisplayName="{x:Null}" Mode="Appears">

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Депозити",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "ct9Fjs3uX0OFzUqpQ2d2GA",
+  "Reference": "54uTGlzDokeeZOqBUEaMEQ/ct9Fjs3uX0OFzUqpQ2d2GA",
+  "ParentRef": "54uTGlzDokeeZOqBUEaMEQ/rXT9tAscLUGCxMcw2-fJwA",
+  "Created": "2025-04-24T18:34:17.3224652Z",
+  "Updated": "2025-04-24T18:34:17.3224652Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

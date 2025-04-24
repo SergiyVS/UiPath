@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="p2RdxWNBB0GefVRZOFAbaA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="news.finance.ua" CVScreenId="8664c7db-f609-44df-a977-0116f3a0bc6c" DesignTimeRectangle="1349, 154, 126, 76" DesignTimeScaleFactor="1.3636363744735718" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Депозити' /&gt;" Guid="f1153196-367b-489f-bf8e-9ffddf6c10b5" ScopeSelectorArgument="&lt;html app='firefox.exe' title='Новини фінансів України та світу - Finance.ua' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="dcc8c3ab1e3a27b8579b0f34d671144f.png" xmlns="">0X_4VtMSxoUKoPuGF1C75eg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
